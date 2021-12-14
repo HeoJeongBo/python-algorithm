@@ -40,7 +40,3 @@ class Solution:
         # recursive_dfs(nums, nums)
         iterative_dfs()
         return results
-
-
-a = Solution()
-print(a.permute([1, 2, 3]))
